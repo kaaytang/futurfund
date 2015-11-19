@@ -882,6 +882,7 @@ pre code {
 .row {
   margin-left: -15px;
   margin-right: -15px;
+  margin-top: -15px;
 }
 /* line 20, ../scss/_mixins.scss */
 .row:before, .row:after {
@@ -19296,6 +19297,7 @@ ul.social-buttons li a:active {
 
 .crafted {
   margin-top:50px;
+  float: 20px;
   color:#fff;
   font-family: "Montserrat", sans-serif;
 }
@@ -19308,3 +19310,14 @@ ul.social-buttons li a:active {
 .lab:hover {
   color:#73B9D7 !important;
 }
+
+.connect {
+  color:#FFFFFF;
+  font-size: 25px;
+}
+
+.slogan {
+
+}
+
+
